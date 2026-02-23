@@ -1,0 +1,13 @@
+# Visual Studio
+.vs/
+x64/
+Debug/
+Release/
+*.user
+*.suo
+*.VC.db
+
+# Build artifacts
+*.exe
+*.obj
+*.log
